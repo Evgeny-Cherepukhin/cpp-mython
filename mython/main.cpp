@@ -1,8 +1,9 @@
+// Итоговый проект 15 спринт. Черепухин Евгений Сергеевич.
 #include "lexer.h"
 #include "parse.h"
 #include "runtime.h"
 #include "statement.h"
-#include "test_runner.h"
+#include "tests/test_runner.h"
 
 #include <iostream>
 
